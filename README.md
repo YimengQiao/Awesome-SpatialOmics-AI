@@ -4,9 +4,13 @@
 ### Foundation model
 
 [2025 Nature Methods](https://www.nature.com/articles/s41592-025-02899-6) Novae: a graph-based foundation model for spatial transcriptomics data
+
 [2025 Nature Methods](https://www.nature.com/articles/s41592-025-02814-z) Nicheformer: a foundation model for single-cell and spatial omics
+
 [2025 ICML](https://openreview.net/forum?id=PQx66EJUu0) SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics
+
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.27.615337v7) stFormer: a foundation model for spatial transcriptomics
+
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1) scGPT-spatial: Continual Pretraining of Single-Cell Foundation Model for Spatial Transcriptomics
 
 ## Spatial proteomics
