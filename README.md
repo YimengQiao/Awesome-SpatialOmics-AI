@@ -32,6 +32,8 @@
 ## Spatial metabolism
 
 ## Spatial multi-omics cross-modal prediction
+[2025 medRxiv](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images
+
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1) DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics
 
 [2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.05.626986v1) NicheTrans: Spatial-aware Cross-omics Translation
