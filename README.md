@@ -35,6 +35,8 @@
 [2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.05.626986v1) NicheTrans: Spatial-aware Cross-omics Translation
 
 ## Spatial multi-omics integration
+[2026 Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) Representation learning for multi-modal spatially resolved transcriptomics data (AESTETIK)
+
 [2026 Nature Genetics](https://www.nature.com/articles/s41588-026-02573-3) Mosaic integration of spatial multi-omics with SpaMosaic
 
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.13.632818v3) spEMO: Leveraging Multi-Modal Foundation Models for Analyzing Spatial Multi-Omic and Histopathology Data
