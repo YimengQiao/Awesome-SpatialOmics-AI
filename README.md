@@ -3,6 +3,8 @@
 ## Spatial transcriptomics
 ### Foundation model
 
+[2026 medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology
+
 [2026 ICLR](https://openreview.net/pdf?id=lK82jpa8jr) HEIST: A GRAPH FOUNDATION MODEL FOR SPATIAL TRANSCRIPTOMICS AND PROTEOMICS DATA
 
 [2025 Nature Methods](https://www.nature.com/articles/s41592-025-02899-6) Novae: a graph-based foundation model for spatial transcriptomics data
