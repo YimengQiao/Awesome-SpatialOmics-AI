@@ -33,6 +33,7 @@
 
 ## Spatial multi-omics cross-modal prediction
 [2025 medRxiv](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images
+[2025 NeurIPS Imageomics](https://openreview.net/forum?id=ofCkwXQKaz) DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision
 
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1) DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics
 
