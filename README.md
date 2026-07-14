@@ -30,6 +30,8 @@
 ## Spatial metabolism
 
 ## Spatial multi-omics cross-modal prediction
+[2025 NeurIPS Imageomics](https://openreview.net/forum?id=ofCkwXQKaz) DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision
+
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1) DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics
 
 [2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.05.626986v1) NicheTrans: Spatial-aware Cross-omics Translation
