@@ -3,6 +3,8 @@
 ## Spatial transcriptomics
 ### Foundation model
 
+[2026 medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology
+
 [2026 ICLR](https://openreview.net/pdf?id=lK82jpa8jr) HEIST: A GRAPH FOUNDATION MODEL FOR SPATIAL TRANSCRIPTOMICS AND PROTEOMICS DATA
 
 [2025 Nature Methods](https://www.nature.com/articles/s41592-025-02899-6) Novae: a graph-based foundation model for spatial transcriptomics data
@@ -30,11 +32,16 @@
 ## Spatial metabolism
 
 ## Spatial multi-omics cross-modal prediction
+[2025 medRxiv](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images
+[2025 NeurIPS Imageomics](https://openreview.net/forum?id=ofCkwXQKaz) DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision
+
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1) DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics
 
 [2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.05.626986v1) NicheTrans: Spatial-aware Cross-omics Translation
 
 ## Spatial multi-omics integration
+[2026 Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) Representation learning for multi-modal spatially resolved transcriptomics data (AESTETIK)
+
 [2026 Nature Genetics](https://www.nature.com/articles/s41588-026-02573-3) Mosaic integration of spatial multi-omics with SpaMosaic
 
 [2025 bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.13.632818v3) spEMO: Leveraging Multi-Modal Foundation Models for Analyzing Spatial Multi-Omic and Histopathology Data
