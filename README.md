@@ -5,6 +5,12 @@
 
 [2026 medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology
 
+[2026 medRxiv](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs
+
+[2026 Hugging Face dataset](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas) KPMP virtual spatial transcriptomics atlas: DeepSpot-M predicted transcriptome-wide ST for 1,534 H&E kidney biopsy slides from 476 KPMP participants (~5.46M spots) ([paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1))
+
+[2026 Hugging Face dataset](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics) KPMP Xenium virtual spatial transcriptomics: DeepSpot-M predicted transcriptome-wide expression for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies ([paper](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1))
+
 [2026 ICLR](https://openreview.net/pdf?id=lK82jpa8jr) HEIST: A GRAPH FOUNDATION MODEL FOR SPATIAL TRANSCRIPTOMICS AND PROTEOMICS DATA
 
 [2025 Nature Methods](https://www.nature.com/articles/s41592-025-02899-6) Novae: a graph-based foundation model for spatial transcriptomics data
